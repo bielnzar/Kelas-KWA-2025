@@ -1,6 +1,6 @@
 # Writeup PicoCTF: Irish-Name-Repo 3
 
-[Akses Challenge disini](https://play.picoctf.org/practice/challenge/280)
+[Akses Challenge disini](https://play.picoctf.org/practice/challenge/8?category=1&page=5&search=)
 
 ![Image 1](https://github.com/bielnzar/Kelas-KWA-2025/blob/main/week2-injection/mandiri/images/irish-3/1.png)
 
