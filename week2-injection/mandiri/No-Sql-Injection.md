@@ -6,10 +6,6 @@ Di tantangan ini, kita diberikan sebuah website dengan halaman login. Tugas kita
 
 ![pico-no-sql](https://github.com/bielnzar/Kelas-KWA-2025/blob/main/week2-injection/mandiri/images/no-sql-inj/1.png)
 
-## Overview
-
-- **Nama Challenge**: No SQL Injection
-
 ## Menemukan Celah
 
 Setelah mengunduh dan melihat source code yang diberikan, kita bisa menemukan celah keamanan pada bagian `server.js`, tepatnya di kode yang menangani proses login:

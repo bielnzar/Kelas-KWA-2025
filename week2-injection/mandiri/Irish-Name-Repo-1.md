@@ -4,11 +4,6 @@
 
 ![Image 1](https://github.com/bielnzar/Kelas-KWA-2025/blob/main/week2-injection/mandiri/images/irish-1/1.png)
 
-## Ringkasan Tantangan
-
--   **Nama Challenge**: Irish-Name-Repo 1
--   **Kategori**: Web Exploitation
-
 ## Langkah-langkah Eksploitasi
 
 ### 1. Menemukan Halaman Login Admin

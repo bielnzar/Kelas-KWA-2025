@@ -6,11 +6,6 @@ Di tantangan kali ini, kita akan berhadapan dengan salah satu jenis serangan web
 
 ![Image 1](https://github.com/bielnzar/Kelas-KWA-2025/blob/main/week2-injection/mandiri/images/sqlilite/1.png)
 
-## Ringkasan Tantangan
-
--   **Nama Challenge**: SQLiLite
--   **Kategori**: Web Exploitation
-
 ## Langkah-langkah Eksploitasi
 
 ### 1. Analisis Form Login

@@ -4,11 +4,6 @@
 
 ![Image 1](https://github.com/bielnzar/Kelas-KWA-2025/blob/main/week2-injection/mandiri/images/more-sqli/1.png)
 
-## Ringkasan Tantangan
-
--   **Nama Challenge**: More SQLi
--   **Kategori**: Web Exploitation
-
 ## Langkah-langkah Eksploitasi
 
 ### 1. Bypass Halaman Pertama
