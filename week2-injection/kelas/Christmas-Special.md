@@ -23,10 +23,13 @@ Payload yang digunakan:
 - `WHERE deletedAt IS NOT NULL` adalah kondisi untuk mencari produk yang sudah ditandai terhapus.
 - `--` untuk mengomentari sisa query.
 
+
+![Image 1](https://github.com/bielnzar/Kelas-KWA-2025/blob/main/week2-injection/kelas/images/christmas/1.png)
+
 ### Menemukan Product ID
 Setelah mengeksekusi payload di kolom pencarian, kita akan melihat produk "Christmas Surprise" muncul. Dari hasil ini, kita mengetahui bahwa `ProductId` untuk produk tersebut adalah **10**.
 
-![Image 1](https://github.com/bielnzar/Kelas-KWA-2025/blob/main/week2-injection/kelas/images/christmas-special/1.png)
+![Image 2](https://github.com/bielnzar/Kelas-KWA-2025/blob/main/week2-injection/kelas/images/christmas/2.png)
 
 ### Menambahkan Produk ke Keranjang
 Karena produk ini tidak bisa ditambahkan langsung, kita perlu trik:
@@ -35,6 +38,8 @@ Karena produk ini tidak bisa ditambahkan langsung, kita perlu trik:
 3. Ubah nilai `ProductId` di dalam request menjadi **10**.
 4. Kirim (Forward) request yang sudah dimodifikasi.
 
-![Image 2](https://github.com/bielnzar/Kelas-KWA-2025/blob/main/week2-injection/kelas/images/christmas-special/2.png)
+![Image 3](https://github.com/bielnzar/Kelas-KWA-2025/blob/main/week2-injection/kelas/images/christmas/3.png)
 
 Setelah itu, produk spesial Natal akan masuk ke keranjang belanja kita dan tantangan pun selesai.
+
+![Image 4](https://github.com/bielnzar/Kelas-KWA-2025/blob/main/week2-injection/kelas/images/christmas/4.png)
