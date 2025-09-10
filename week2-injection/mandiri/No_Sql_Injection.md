@@ -4,7 +4,7 @@
 
 Di tantangan ini, kita diberikan sebuah website dengan halaman login. Tugas kita adalah mencoba masuk (login) untuk mendapatkan flag-nya, tapi tentu saja kita tidak tahu email dan password-nya.
 
-![pico-no-sql](https://github.com/bielnzar/Kelas-KWA-2025/blob/main/week2-injection/mandiri/images/no-sql1.png)
+![pico-no-sql](https://github.com/bielnzar/Kelas-KWA-2025/blob/main/week2-injection/mandiri/images/no-sql-inj/1.png)
 
 ## Overview
 
@@ -53,7 +53,7 @@ Masalah utamanya ada pada baris `JSON.parse(email)` dan `JSON.parse(password)`. 
 
 Kita bisa menggunakan `curl` di terminal atau burpsuite untuk mengirim payload ini ke server.
 
-![SQLI-2](https://github.com/bielnzar/Kelas-KWA-2025/blob/main/week2-injection/mandiri/images/no-sql2.png)
+![SQLI-2](https://github.com/bielnzar/Kelas-KWA-2025/blob/main/week2-injection/mandiri/images/no-sql-inj/2.png)
 
 ### 3. Mendapatkan Flag
 
@@ -77,7 +77,7 @@ Bisa menggunakan tool online atau perintah di terminal:
 echo "cGljb0NURntqQmhEMnk3WG9OelB2XzFZeFM5RXc1cUwwdUk2cGFzcWxfaW5qZWN0aW9uXzc4NGU0MGU4fQ==" | base64 -d
 ```
 
-![Decode]([image.png](https://github.com/bielnzar/Kelas-KWA-2025/blob/main/week2-injection/mandiri/images/no-sql3.png))
+![Decode](https://github.com/bielnzar/Kelas-KWA-2025/blob/main/week2-injection/mandiri/images/no-sql-inj/3.png)
 
 Setelah di-decode, kita akan mendapatkan flag-nya:
 
