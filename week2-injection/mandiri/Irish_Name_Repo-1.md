@@ -32,6 +32,6 @@ admin' --
 4. Ubah nilai username menjadi payload kita: `admin'--`.
 5. Kirim request yang sudah dimodifikasi (Forward).
 
-![Image 1](https://github.com/bielnzar/Kelas-KWA-2025/blob/main/week2-injection/mandiri/images/irish-1/2.png)
+![Image 2](https://github.com/bielnzar/Kelas-KWA-2025/blob/main/week2-injection/mandiri/images/irish-1/2.png)
 
 > Flag: `picoCTF{s0m3_SQL_fb3fe2ad}`
