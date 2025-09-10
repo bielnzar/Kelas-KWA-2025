@@ -17,7 +17,7 @@ bender@juice-sh.op'--
 - `bender@juice-sh.op'` akan melengkapi bagian email dalam query.
 - `--` (diikuti spasi) akan berfungsi sebagai komentar, membuat sisa query (termasuk pengecekan password) diabaikan.
 
-### 3. Eksekusi Payload
+### Eksekusi Payload
 1. Buka halaman login.
 2. Masukkan payload `bender@juice-sh.op'-- ` di kolom email.
 3. Isi kolom password dengan teks acak.
