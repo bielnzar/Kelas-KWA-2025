@@ -28,7 +28,7 @@ Payload JSON yang akan kita gunakan:
 ```
 Server akan memprosesnya seperti ini:
 1.  **Pengecekan Keamanan:** Server hanya membaca `BasketId` yang pertama (`"1"`), memvalidasinya, dan memberikan izin.
-2.  **Eksekusi Aksi:** Saat akan menambahkan produk, server justru menggunakan `BasketId` yang kedua (`"2"`).
+2.  **Eksekusi:** Saat akan menambahkan produk, server justru menggunakan `BasketId` yang kedua (`"2"`).
 
 ![Image 2](https://github.com/bielnzar/Kelas-KWA-2025/blob/main/week3-broken-access-control/kelas/images/manipulate/2.png)
 
