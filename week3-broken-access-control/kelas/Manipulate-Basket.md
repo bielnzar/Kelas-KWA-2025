@@ -2,7 +2,7 @@
 
 [Akses Challenge disini](https://juice-shop.herokuapp.com/#/score-board?categories=Broken%20Access%20Control)
 
-## Ringkasan Tantangan
+## Overview
 - **Nama:** Manipulate Basket
 - **Kategori:** Broken Access Control
 

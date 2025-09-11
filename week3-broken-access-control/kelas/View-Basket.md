@@ -2,11 +2,9 @@
 
 [Akses Challenge disini](https://juice-shop.herokuapp.com/#/score-board?categories=Broken%20Access%20Control&showDisabledChallenges=false)
 
-## Ringkasan Tantangan
+## Overview
 - **Nama:** View Basket
 - **Kategori:** Broken Access Control
-
-## Langkah-langkah Penyelesaian
 
 ### 1. Menganalisis Cara Kerja Keranjang Belanja
 Saat kita melihat isi keranjang belanja kita, aplikasi akan membuat request ke sebuah API endpoint untuk mengambil datanya. Dengan menggunakan Burp Suite atau Developer Tools di browser, kita bisa melihat request ini.
